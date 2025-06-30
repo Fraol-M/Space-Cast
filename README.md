@@ -73,12 +73,3 @@ Contributions are welcome! If you'd like to contribute to **SpaceCast**, please 
 4. **Submit a pull request**.
 
 
-## 📩 Contact
-
-Feel free to reach out or follow me on different platforms:
-
-- **📧 Email**: eyobsmax@gmail.com
-- **🐱 GitHub**: https://github.com/Eyob-smax
-- **🎵 TikTok**: https://www.tiktok.com/@eyobsmax
-- **📢 Telegram**: https://t.me/alnova19
-
